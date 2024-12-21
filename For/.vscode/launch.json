@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DuplicateChar",
+            "request": "launch",
+            "mainClass": "DuplicateChar",
+            "projectName": "For_b9433b98"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
